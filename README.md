@@ -14,5 +14,10 @@ Esta API será exposta na nuvem, porém com controle de acesso.
 
 ## Imagens da aplicação
 ![texto](imagem)
+
+## Links Úteis
+- https://www.heroku.com/
+- https://restfulapi.net/http-methods/
+
 ## Agradecimentos
 [Professor Sandro Giacomozzi](https://www.linkedin.com/in/sandrogiacomozzi/)
