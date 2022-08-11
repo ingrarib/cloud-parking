@@ -14,13 +14,22 @@ Esta API será exposta na nuvem, porém com controle de acesso.
 - [x] Implementação e configuração do Swagger-UI para disponibilizar para o front-end
 - [x] Tratamento de exceções - deixar claro para o consumidor o motivo de um erro
 - [x] Implementação de Testes automatizados de API
-- [] Implementação das dependências maven e banco de dados (no caso o PostgreSQL) no pom.xml
-- [] Preparação da Entidade Parking
-- [] Iniciação do container do banco de dados
-- [] Configuração do Spring Data JPA
-- [] Criação da interface *repository*
-## Imagens da aplicação
-![texto](imagem)
+- [x] Implementação das dependências maven e banco de dados (no caso o PostgreSQL) no pom.xml
+- [x] Preparação da Entidade Parking
+- [x] Iniciação do container do banco de dados (Docker)
+- [x] Download plugin DB Browser (IDE - IntelliJ)
+- [X] Configuração do Spring Data JPA e criando a tabela no banco de dados
+- [x] Criação da interface *repository*
+- [x] Atualização classe **"ParkingService.Java"**
+- [x] Implementação dos algoritmos da regra de negócio e realização do cálculo de dias e horas
+- [x] Teste de todos os métodos via swagger
+- [x] Inclusão de transação
+- [x] Configuração do Heroku
+- [x] Configuração de segurança - adicionar dependência Spring Security
+- [x] Criação da classe de configuração
+- [x] Tornando API pública
+## Imagem da aplicação
+![Parking REST API](https://i.ibb.co/ZMYRv8L/Parking-REST-API.png)
 
 ## Links Úteis
 
